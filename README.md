@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Arturrio112
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning computer science at University of Latvia
-- 💞️ I’m looking to collaborate on some projects in the future
 - 📫 How to reach me: arturspalamarcuks@inbox.lv
 
 <!---
